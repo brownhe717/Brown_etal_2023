@@ -1,0 +1,12 @@
+#PlotCorrelation for raw CUT&RUN data
+
+module load python/3.6.8
+module load deeptools/3.5.0
+
+####multiBamSummary → input (bam files: 3Ab + 3IgG), output (compressed .npz file to be used in plotCorrelation) -- below uses 'WT EAD H3K27me3' files as example
+
+multiBamSummary bins --bamfiles WT_EAD_H3K27me3_1.bam WT_EAD_H3K27me3_2.bam WT_EAD_H3K27me3_3.bam WT_EAD_H3K27me3_IgG_1.bam WT_EAD_H3K27me3_IgG_2.bam WT_EAD_H3K27me3_IgG_3.bam -o WT_EAD_H3K27me3.npz
+
+####plotCorrelation: shows how similar reads are → input (.npz file), output (heatmap)
+
+plotCorrelation -in WT_EAD_H3K27me3.npz –-whatToPlot heatmap –-corMethod spearman -- plotNumbers -o WT_EAD_H3K27me3_heatmap.png

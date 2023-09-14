@@ -1,0 +1,234 @@
+geneid	ead_vs_wd_change	pckd_vs_ead_change	pckd_vs_wd_change
+1	CG43349	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+2	NLaz	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+3	CR44897	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+4	CG43402	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+5	CG31668	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+6	Cyp309a2	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+7	CR44772	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+8	CG3285	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+9	CG11236	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+10	mir-305	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+11	CG13793	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+12	CG7179	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+13	CR44825	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+14	CG7227	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+15	CR44996	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+16	CG33723	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+17	CG4382	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+18	CG7329	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+19	CG17107	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+20	CR44582	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+21	CG14072	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+22	CG14915	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+23	CG43725	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+24	Oatp33Eb	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+25	nub	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+26	CG5204	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+27	CR44972	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+28	CG43376	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+29	CG16888	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+30	CG15258	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+31	CG18480	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+32	CG13258	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+33	CG44405	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+34	CG33552	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+35	CR44605	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+36	CG31787	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+37	CR45721	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+38	CG13086	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+39	CG16798	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+40	Gr39a	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+41	snmRNA:254	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+42	CG11630	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+43	CR44269	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+44	CG2528	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+45	CG6675	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+46	CR44101	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+47	ap	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+48	CG12826	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+49	CG1942	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+50	CG8791	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+51	CR44447	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+52	CG8736	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+53	snoRNA:Psi28S-2949	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+54	snoRNA:Me28S-A982a	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+55	CG8800	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+56	CG9084	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+57	alphaTry	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+58	CG12374	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+59	CR45137	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+60	vg	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+61	CG44251	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+62	CG33137	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+63	mir-4978	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+64	Sox15	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+65	Cyp6a8	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+66	CG8192	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+67	CG33463	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+68	Jhe	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+69	Nox	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+70	Amy-p	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+71	snoRNA:U29:54Ed	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+72	snoRNA:Me28S-G3277a	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+73	CG5770	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+74	CG30114	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+75	CR45147	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+76	CG33136	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+77	CG43069	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+78	CG18605	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+79	snoRNA:185	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+80	CR43812	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+81	CG43308	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+82	snoRNA:Psi18S-841a	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+83	CG30263	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+84	CG3292	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+85	CG3264	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+86	CR45152	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+87	CG42867	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+88	CG30409	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+89	bw	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+90	slbo	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+91	CR44811	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+92	Mmp1	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+93	CG9380	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+94	CG43150	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+95	CG32845	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+96	Ppm1	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+97	CG14949	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+98	Cpr64Aa	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+99	Cpr64Ac	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+100	CG1273	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+101	CG7509	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+102	Blimp-1	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+103	snoRNA:684	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+104	Jon65Ai	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+105	CG8541	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+106	CG32365	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+107	CG13675	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+108	CG32364	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+109	CG34456	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+110	CG6216	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+111	CG6168	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+112	CG5964	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+113	caup	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+114	Zmynd10	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+115	snoRNA:Psi28S-3327b	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+116	CG10089	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+117	CR45396	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+118	CG43295	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+119	CG13054	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+120	CG34248	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+121	PGRP-SB2	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+122	CG42816	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+123	CG14082	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+124	tey	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+125	mir-33	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+126	CR43889	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+127	CG14183	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+128	CG7365	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+129	obst-J	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+130	CG7017	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+131	CG5078	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+132	CR45734	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+133	CG43218	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+134	CG12974	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+135	Neu2	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+136	CG7173	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+137	Sfp78E	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+138	CG14566	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+139	TwdlG	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+140	CG2016	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+141	CR43628	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+142	Osi14	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+143	CR42651	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+144	CR44932	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+145	Antp	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+146	CR43252	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+147	CR44933	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+148	CR44333	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+149	RacGAP84C	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+150	CG10029	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+151	grn	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+152	CR45551	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+153	CR45550	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+154	CG16736	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+155	CG8358	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+156	Whamy	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+157	mthl11	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+158	Ugt86Di	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+159	CR44137	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+160	CG12256	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+161	CG10041	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+162	CG11656	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+163	CG31157	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+164	Ir87a	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+165	Cht5	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+166	CG14850	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+167	CG10264	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+168	CR45638	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+169	CG17562	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+170	Ubx	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+171	bxd	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+172	AttD	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+173	CG44158	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+174	MtnB	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+175	snoRNA:Psi18S-301	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+176	CG43446	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+177	CG31343	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+178	CG31233	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+179	CG13833	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+180	CG13606	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+181	CG5715	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+182	CG13622	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+183	CCAP-R	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+184	CR43643	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+185	TwdlM	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+186	CG14257	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+187	CG13978	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+188	CG43319	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+189	CR45566	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+190	Ppn	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+191	snoRNA:Psi28S-3405b	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+192	snoRNA:Psi28S-3405c	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+193	CG33346	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+194	Ssl2	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+195	CG11841	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+196	Dr	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+197	CG15506	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+198	CG34296	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+199	Jon99Fi	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+200	CG31019	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+201	Spn100A	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+202	mey	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+203	nyo	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+204	CG13361	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+205	CG3699	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+206	snoRNA:Me28S-G980	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+207	Hr4	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+208	CG18031	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+209	CG17717	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+210	CG32719	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+211	hdm	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+212	CG10970	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+213	CR44517	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+214	CG17440	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+215	CG3106	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+216	CG2898	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+217	C901	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+218	CR44266	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+219	m	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+220	CG9411	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+221	Ag5r2	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+222	CG42300	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+223	CG12698	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+224	sing	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+225	CR44754	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+226	snoRNA:Psi28S-1135d	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+227	CG8568	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+228	CR44124	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+229	CG6696	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in Pc knockdown EAD than WD
+230	CCKLR-17D3	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+231	Cyp6t1	enriched in WD (EAD depleted)	enriched in absence of Pc	ns
+232	CG17167	enriched in WD (EAD depleted)	enriched in absence of Pc	higher in WD than Pc knockdown EAD
+233	CR40976	enriched in WD (EAD depleted)	enriched in absence of Pc	ns

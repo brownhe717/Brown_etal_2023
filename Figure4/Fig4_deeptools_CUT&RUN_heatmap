@@ -1,0 +1,50 @@
+#script for CUT&RUN visual analysis
+
+#start interactive session on Carbonate
+srun -p general --pty bash
+
+#load all required modules with conda environment
+	#module load -- python/3.9.8 gcc/9.3.0 deeptools/python3.9/3.5.1 samtools/1.15.1 curl/7.54.0 flex/2.6.4
+	source activate chipseq-automation
+
+#convert bam files to 'normalized' bedgraphs with bamCoverage
+bamCoverage -b /N/slate/brownhe/ChIPseq/GSF3069_results/aligned/WT_WD_IgG_H2AK119Ub_3.bam \
+--outFileName WT_WD_IgG_H2AK119Ub_3_SF.bedgraph \
+--outFileFormat bedgraph \
+--scaleFactor 2.51
+
+#scale factors for each of the representative bam files are as follows:
+	#WT EAD H3K27me3 #1 (32.468) & IgG (1.625) -- GSF2440
+	#PcKD H3K27me3 #3 (74.627) & IgG (24.390) -- GSF2878
+	#WT WD H3K27me3 #1 (147.059) & IgG (5.030) -- GSF2878
+
+	#WT EAD H2AK119Ub #1 (15.244) & IgG (3.595) -- GSF2587
+	#PcKD H2AK119Ub #2 (18.116) & IgG (3.434) -- GSF2878
+	#WT WD H2AK119Ub #3 (23.04) & IgG (2.51) -- GSF3069
+
+#run through SEACR web interface (https://seacr.fredhutch.org/) with 'norm' parameter
+#cite: Meers, MP, Tenenbaum, D and Henikoff S (2019). Peak calling by sparse enrichment analysis for CUT&RUN chromatin profiling. Epigenetics & Chromatin 2019 12:42.
+
+
+#generate matrix from SEACR called peaks
+computeMatrix reference-point --referencePoint center \
+-R /N/slate/brownhe/ChIPseq/peaks/SEACRpeaks/WT_WD_H3K27me_1_SF_SEACRpeaks.relaxed.bed \
+-S /N/slate/brownhe/ChIPseq/peaks/bigs/WT_WD_H3K27me_1_SF.bigwig \
+--missingDataAsZero \
+-o WT_WD_H3K27me_1_SF_center.mat.gz \
+-a 2000 -b 2000
+
+#plot profile of peaks -- density plot that evaluates read density across all peak centers
+plotProfile -m /N/slate/brownhe/ChIPseq/peaks/matrices/WT_WD_H3K27me_1_SF_center.mat.gz \
+-out /N/slate/brownhe/ChIPseq/peaks/plots/WT_WD_H3K27me_1_SF_center_profile.png \
+--refPointLabel "center" \
+-T "WT WD H3K27me3"
+
+#plot a heatmap organized by center of peak
+plotHeatmap --matrixFile /N/slate/brownhe/ChIPseq/peaks/matrices/WT_WD_H3K27me_1_SF_center.mat.gz \
+-out /N/slate/brownhe/ChIPseq/peaks/plots/WT_WD_H3K27me_1_SF_center_heatmap.png \
+--colorMap viridis \
+--whatToShow 'plot, heatmap and colorbar' \
+--samplesLabel "WT WD H3K27me3"
+
+
